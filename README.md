@@ -1,6 +1,12 @@
-# React + Vite
 
 # YouTube Clone Project
+
+Acsses the video using link- 
+
+
+
+if Link isn't working properly the project review in this video -
+https://github.com/madhouse12345/youtube-clone/assets/139467540/20fde4dc-6f9d-42e6-821d-ae6d0008fd5c
 
 ## Description
 
