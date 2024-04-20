@@ -1,11 +1,11 @@
 
 # YouTube Clone Project
 
-Acsses the video using link- 
+Acsses the project review  using link- https://madhouse12345.github.io/youtube-clone/ 
 
 
 
-if Link isn't working properly the project review in this video -
+If Link isn't working properly the project review in this video -
 https://github.com/madhouse12345/youtube-clone/assets/139467540/20fde4dc-6f9d-42e6-821d-ae6d0008fd5c
 
 ## Description
