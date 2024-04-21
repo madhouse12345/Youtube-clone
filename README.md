@@ -1,7 +1,7 @@
 
 # YouTube Clone Project
 
-Acsses the project review  using link- https://madhouse12345.github.io/youtube-clone/ 
+Acsses the project review  using link- https://madhouse12345.github.io/Youtube-clone
 
 
 
